@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fakeme/static/css/main.51a79629.css",
-    "main.js": "/fakeme/static/js/main.15da7a96.js",
+    "main.js": "/fakeme/static/js/main.00b443d6.js",
     "static/media/logo.png": "/fakeme/static/media/logo.8791f091845808e6f683.png",
     "index.html": "/fakeme/index.html",
     "main.51a79629.css.map": "/fakeme/static/css/main.51a79629.css.map",
-    "main.15da7a96.js.map": "/fakeme/static/js/main.15da7a96.js.map"
+    "main.00b443d6.js.map": "/fakeme/static/js/main.00b443d6.js.map"
   },
   "entrypoints": [
     "static/css/main.51a79629.css",
-    "static/js/main.15da7a96.js"
+    "static/js/main.00b443d6.js"
   ]
 }
